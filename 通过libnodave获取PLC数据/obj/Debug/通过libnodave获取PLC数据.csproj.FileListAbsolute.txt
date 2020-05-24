@@ -19,3 +19,14 @@ C:\Users\Administrator\Desktop\通过libnodave获取PLC数据\通过libnodave获
 C:\Users\Administrator\Desktop\通过libnodave获取PLC数据\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.csproj.CopyComplete
 C:\Users\Administrator\Desktop\通过libnodave获取PLC数据\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.exe
 C:\Users\Administrator\Desktop\通过libnodave获取PLC数据\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.pdb
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\bin\Debug\通过libnodave获取PLC数据.exe.config
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\bin\Debug\通过libnodave获取PLC数据.exe
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\bin\Debug\通过libnodave获取PLC数据.pdb
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.Form1.resources
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.exe
+C:\Users\Administrator\Desktop\ttt\Share\通过libnodave获取PLC数据\obj\Debug\通过libnodave获取PLC数据.pdb
