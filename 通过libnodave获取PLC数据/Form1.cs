@@ -22,6 +22,7 @@ namespace 通过libnodave获取PLC数据
         private void button1_Click(object sender, EventArgs e)
         {
         
+
            fds.rfd = libnodave.openSocket(102, "192.168.186.130");
            fds.wfd = fds.rfd;
             if (fds.rfd > 0)
